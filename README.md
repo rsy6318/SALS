@@ -6,7 +6,7 @@ cd third_party/ngpmesh
 pip install .
 cd ../..
 ```
-Generate D-MC data for surface extraction. It will take a while, please be patient.
+Generate E-DC data for surface extraction. It will take a while, please be patient.
 ```
 python neural_shape_representation/diff_emc.py
 ```
