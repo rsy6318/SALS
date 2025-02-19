@@ -1,4 +1,4 @@
-# SALS
+# SALS (ICLR 2025)
 ## Preparation
 Install **ngpmesh** to do the intersection detection.   
 ```
