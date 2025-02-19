@@ -1,4 +1,5 @@
 # SALS (ICLR 2025)
+### Shape as Line Segments: Accurate and Flexible Implicit Surface Representation [[**Paper**]](https://openreview.net/pdf?id=RavSZTIe2s)
 ## Preparation
 Install **ngpmesh** to do the intersection detection.   
 ```
